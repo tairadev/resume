@@ -23,7 +23,9 @@ class Footer extends Component {
             <ul className='copyright'>
               <li>
                 &copy; Copyright 2022{' '}
-                <a title='Tim Baker' href='http://tairatecnologia.com.br/'>
+                <a
+                  title='Guilherme Taira'
+                  href='http://tairatecnologia.com.br/'>
                   Guilherme Taira
                 </a>
               </li>
