@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Guilherme Taira",
+    "occupation": "Desenvolvedor Frontend",
+    "description": " atualmente funcionário da ",
+    "employer": "Konecta Brazil",
+    "jobDescription": "desenvolvo aplicações web em React.js, em PHP8 e administro bancos de dados em MySQL",
+    "image": "291368829_195866899448498_8625828136127841605_n.jpg",
+    "bio": "Técnico em informática, tecnólogo em análise e desenvolvimento de sistemas e pós-graduando em FullStack Developer, sou um apaixonado pela tecnologia e pelos avanços diários dela. Atualmente, trabalho como desenvolvedor web junior na Konecta Brasil e busco aprender, cada vez mais, sobre essa área pela qual sou apaixonado.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "guilhermeht1906@gmail.com",
+    "phone": "(11) 95201-7341",
+    "address": {
+      "street": "Rua Dr. Afonso Vergueiro, 1101 - Torre 1 Apto 13B",
+      "city": "São Paulo",
+      "state": "SP",
+      "zip": "02116-001"
+    },
+    "website": "https://tairatecnologia.com.br/",
+    "resumedownload": "https://tairatecnologia.com.br/cv_GuilhermeTaira.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/guilherme-taira1906/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tairadev/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Impacta Tecnologia",
+        "degree": "MBA em FullStack Developer",
+        "graduated": "Setembro de 2022 - Setembro de 2023"
+      },
+      {
+        "school": "FATEC Pastor Enéas Tognini",
+        "degree": "Análise e Desenvolvimento de Sistemas",
+        "graduated": "Agosto de 2019 - Julho de 2022"
+      },
+      {
+        "school": "ETEC Prof. Horácio Augusto da Silveira",
+        "degree": "Técnico em desenvolvimento de sistemas integrado ao ensino médio",
+        "graduated": "Fevereiro de 2016 - Dezembro de 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Konecta Brazil",
+        "title": "Desenvolvedor Web Júnior",
+        "years": "Junho de 2021 - Atualmente",
+        "description": "Responsável pelo desenvolvimento de aplicações web em PHP7 e em React.js, implementações ao sistema web do call center da Vivo e do Boa Vista, criação e manutenção de bancos de dados MySQL e integração de aplicações web com APIs externas."
+      },
+      {
+        "company": "Tinpix Digital",
+        "title": "Desenvolvedor Web Júnior",
+        "years": "Maio de 2021 - Junho de 2021"
+      },
+      {
+        "title": "Estagiário de Desenvolvimento Web",
+        "years": "Março de 2020 - Maio de 2021",
+        "description": "Responsável pelo desenvolvimento de landing pages e e-mails marketing em HTML5, CSS3 e JavaScript (com e sem a utilização do framework JQuery), pelo desenvolvimento de websites e aplicações web em PHP7 e em React.js, pela implementação do painel de administrador WordPress em websites e aplicações, criação e manutenção de bancos de dados MySQL e por integração de websites com APIs externas."
+      },
+      {
+        "company": "Wipro",
+        "title": "Estagiário de Business Intelligence",
+        "years": "Novembro de 2019 - Março de 2020",
+        "description": "Participação direta no atendimento de chamados da base de dados do Makro Atacadista, responsável por alterações em bancos de dados Oracle, pelo acompanhamento de cargas entre bases de dados e pelas consultas e retiradas de relatórios das bases de dados."
+      }
+    ],
+    "skills": [      
+      {
+        "name": "Git",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "HTML5",
+        "image": "html.png"
+      },
+      {
+        "name": "CSS3",
+        "image": "css.png"
+      },
+      {
+        "name": "JavaScript",
+        "image": "js.png"
+      },
+      {
+        "name": "React Js",
+        "image": "react.jpg"
+      },
+      {
+        "name": "PHP",
+        "image": "php.png"
+      },
+      {
+        "name": "MySQL",
+        "image": "mysql.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BMC Câmbio",
+        "category": "Site de câmbio para a empresa BMCorporate",
+        "image": "bmc.png",
+        "url": "https://cambio.bmcorporate.com.br/"
+      },
+      {
+        "title": "BMC Consultoria",
+        "category": "Site de consultoria para a empresa BMCorporate",
+        "image": "bmcc.png",
+        "url": "https://consultoria.bmcorporate.com.br/"
+      },
+      {
+        "title": "Agência Criativerso",
+        "category": "Site da agência de marketing Criativerso",
+        "image": "criati.png",
+        "url": "https://criativerso.com.br/"
+      },
+      {
+        "title": "Montes & Montes",
+        "category": "Site para o escritório de advocacia Montes & Montes",
+        "image": "mm.png",
+        "url": "https://www.montesemontesadv.com.br/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
